@@ -2,7 +2,6 @@ body {
     max-width: 1540px;
     margin: 0 auto;
     overflow-x: hidden;
-    background: red;
 }
 .container {
     padding-top: 16px;
