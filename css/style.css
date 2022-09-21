@@ -1,0 +1,12 @@
+body {
+    max-width: 1540px;
+    margin: 0 auto;
+    overflow-x: hidden;
+}
+.container {
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
+.container.scroll{
+  overflow-x: scroll;
+}
